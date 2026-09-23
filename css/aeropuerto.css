@@ -179,7 +179,7 @@ address a { color: #fff; text-decoration: underline; }
 
 /* Hero */
 .hero {
-  background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("/semana06/imagenes/aeropierto.png");
+  background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("/imagenes/aeropierto.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
